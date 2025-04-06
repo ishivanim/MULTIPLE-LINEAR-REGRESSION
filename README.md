@@ -2,45 +2,45 @@
 
 ## Project Overview
 
-    This project showcases a multiple linear regression model built from scratch to analyze and predict student performance. The dataset includes a variety of features related to students' academic and personal backgrounds. To incorporate all relevant features and reduce dimensionality, Principal Component Analysis (PCA) was applied.
+This project showcases a multiple linear regression model built from scratch to analyze and predict student performance. The dataset includes a variety of features related to students' academic and personal backgrounds. To incorporate all relevant features and reduce dimensionality, Principal Component Analysis (PCA) was applied.
 
 ## Dataset
 
-    ### Source: Student performance dataset
+    Source: Student performance dataset
 
-    ### Features: Various academic and socio-demographic attributes
+    Features: Various academic and socio-demographic attributes
 
-    ### Target: Final performance/grades of students
+    Target: Final performance/grades of students
 
-## Implementation Steps
+## Implementation Steps : 
 
-    Data Preprocessing
+    1) Data Preprocessing
 
-    Cleaned and prepared the dataset for modeling.
+    2) Cleaned and prepared the dataset for modeling.
 
-    Applied Principal Component Analysis (PCA) to reduce dimensions and capture maximum variance.
+    3) Applied Principal Component Analysis (PCA) to reduce dimensions and capture maximum variance.
 
-    Model Development
+    4) Model Development
 
-    Wrote the multiple linear regression model from scratch.
+    5) Wrote the multiple linear regression model from scratch.
 
-    Split the dataset into training and testing sets using train_test_split from scikit-learn.
+    6) Split the dataset into training and testing sets using train_test_split from scikit-learn.
 
-    Model Evaluation
+    7) Model Evaluation
 
-    Evaluated the model using:
+    8) Evaluated the model using:
 
-    R² Score: To assess the goodness of fit.
+    9) R² Score: To assess the goodness of fit.
 
-    Mean Squared Error (MSE): To evaluate prediction accuracy.
+    9) Mean Squared Error (MSE): To evaluate prediction accuracy.
 
 ## Results
 
-    Demonstrated the relationship between multiple features and student performance.
+    1) Demonstrated the relationship between multiple features and student performance.
 
-    The PCA helped improve performance and reduce redundancy.
+    2) The PCA helped improve performance and reduce redundancy.
 
-    The metrics provided insight into the model's effectiveness.
+    3) The metrics provided insight into the model's effectiveness.
 
 ## How to Run
 
