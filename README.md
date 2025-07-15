@@ -24,15 +24,7 @@ This project showcases a multiple linear regression model built from scratch to 
 
     5) Wrote the multiple linear regression model from scratch.
 
-    6) Split the dataset into training and testing sets using train_test_split from scikit-learn.
-
-    7) Model Evaluation
-
-    8) Evaluated the model using:
-
-    9) R² Score: To assess the goodness of fit.
-
-    9) Mean Squared Error (MSE): To evaluate prediction accuracy.
+    6) trained the model using entire dataset
 
 ## Results
 
@@ -42,6 +34,8 @@ This project showcases a multiple linear regression model built from scratch to 
 
     3) The metrics provided insight into the model's effectiveness.
 
+    4) Different file name studentperformace.py was created in which we used the intercepts and weights values for the streamlit app deployment
+
 ## How to Run
 
     # Clone the repository
@@ -50,6 +44,9 @@ This project showcases a multiple linear regression model built from scratch to 
 
 ## Run the script (replace with your filename)
     python multiple_linear_regression.py
+
+    ### Run the following code for deployment of streamlit app
+        streamlit run studentperformace.py  (in terminal)
 
 ## Dependencies
 
@@ -61,10 +58,8 @@ This project showcases a multiple linear regression model built from scratch to 
 
     Principal Component Analysis (PCA)
 
-    Model Evaluation Metrics (R² Score, MSE)
-
-    Data Splitting with train_test_split
-
+    STreamlit app deployment 
+    
 ## Author
 
     Shivani Lange
