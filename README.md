@@ -18,7 +18,7 @@ This project showcases a multiple linear regression model built from scratch to 
 
     2) Cleaned and prepared the dataset for modeling.
 
-    3) Applied Principal Component Analysis (PCA) to reduce dimensions and capture maximum variance.
+    3) Applied Principal Component Analysis (PCA) to check if dimension reduction is necessary or not and also to capture maximum variance.
 
     4) Model Development
 
@@ -32,9 +32,7 @@ This project showcases a multiple linear regression model built from scratch to 
 
     2) The PCA helped improve performance and reduce redundancy.
 
-    3) The metrics provided insight into the model's effectiveness.
-
-    4) Different file name studentperformace.py was created in which we used the intercepts and weights values for the streamlit app deployment
+    3) Different file name studentperformace.py was created in which we used the intercepts and weights values from our multiple linear regression model for the streamlit app deployment
 
 ## How to Run
 
@@ -58,7 +56,7 @@ This project showcases a multiple linear regression model built from scratch to 
 
     Principal Component Analysis (PCA)
 
-    STreamlit app deployment 
+    Streamlit app deployment 
     
 ## Author
 
